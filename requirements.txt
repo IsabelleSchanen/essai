@@ -1,4 +1,4 @@
-python==3.9.7
+
 ipywidgets==7.6.5
 matplotlib==3.5.0
 numpy==1.21.4
