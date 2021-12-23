@@ -2,4 +2,4 @@ jupyterlab>=1.0
 ipywidgets==7.6.5
 matplotlib==3.5.0
 numpy==1.21.4
-ipympl
+ipython
